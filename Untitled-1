@@ -1,0 +1,25 @@
+& pre 2 & pre 3 & pre4 & cli 0 & cli 1 & cli2 & cli3 & cli 4 & death & immu_v_bi &  \cr
+healthy & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & {\rm e}^{-\mu_a} \cr
+16/18 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+CIN1 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+CIN2/3 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+immu & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+regre & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+HR & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+CIN1 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+CIN2/3 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+immu & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+regre & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & 0 \cr
+pre 0 & 0 & 0 & 0 & {\rm e}^{-\overline{\mu_a}}\frac{q1}{p1+q1+1} & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\overline{\mu_a}} & 0 \cr
+pre 1 & {\rm e}^{-\overline{\mu_a}}\frac{p2}{p2+q2+1} & 0 & 0 & 0 & {\rm e}^{-\overline{\mu_a}}\frac{q2}{p2+q2+1} & 0 & 0 & 0 & 1-{\rm e}^{-\overline{\mu_a}} & 0 \cr
+pre 2 & {\rm e}^{-\overline{\mu_a}}\frac{1}{p3+q3+1} & {\rm e}^{-\overline{\mu_a}}\frac{p3}{p3+q3+1} & 0 & 0 & 0 & {\rm e}^{-\overline{\mu_a}}\frac{q3}{p3+q3+1} & 0 & 0 & 1-{\rm e}^{-\overline{\mu_a}} & 0 \cr
+pre 3 & 0 & {\rm e}^{-\overline{\mu_a}}\frac{1}{p4+q4+1} & {\rm e}^{-\overline{\mu_a}}\frac{p4}{p4+q4+1} & 0 & 0 & 0 & {\rm e}^{-\overline{\mu_a}}\frac{q4}{p4+q4+1} &  & 1-{\rm e}^{-\overline{\mu_a}} & 0 \cr
+pre4 & 0 & 0 & {\rm e}^{-\overline{\mu_a}}\frac{1}{q5+1} & 0 & 0 & 0 &  & {\rm e}^{-\overline{\mu_a}}\frac{q5}{q5+1} & 1-{\rm e}^{-\overline{\mu_a}} & 0 \cr
+cli 0 & 0 & 0 & 0 & {\rm e}^{-\overline{\overline{\mu_a}}} & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\overline{\overline{\mu_a}}} & 0 \cr
+cli 1 & 0 & 0 & 0 & 0 & {\rm e}^{-\overline{\overline{\mu_a}}} & 0 & 0 & 0 & 1-{\rm e}^{-\overline{\overline{\mu_a}}} & 0 \cr
+cli2 & 0 & 0 & 0 & 0 & 0 & {\rm e}^{-\overline{\overline{\mu_a}}} & 0 & 0 & 1-{\rm e}^{-\overline{\overline{\mu_a}}} & 0 \cr
+cli3 & 0 & 0 & 0 & 0 & 0 & 0 & {\rm e}^{-\overline{\overline{\mu_a}}} & 0 & 1-{\rm e}^{-\overline{\overline{\mu_a}}} & 0 \cr
+cli 4 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & {\rm e}^{-\overline{\overline{\mu_a}}} & 1-{\rm e}^{-\overline{\overline{\mu_a}}} & 0 \cr
+death & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 \cr
+immu_v_bi & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1-{\rm e}^{-\mu_a} & {\rm e}^{-\mu_a} \frac{1}{ r23+1} \cr
+\end{tabular}
