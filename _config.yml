@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinmeng Zhao"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : “assets/images/bio_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love **coffee**."
   location         : "United States "
   email            :  xinmengzhao@umass.edu
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/mengloveyama/"
 
 
 # Reading Files
