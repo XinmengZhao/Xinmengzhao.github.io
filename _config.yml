@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Xinmeng Zhao"
   avatar           : “/assets/images/bio_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I love **coffee**."
-  location         : "United States "
-  email            :  
+  bio              : "Disease modeling/Coffee/Workout/Cooking/Fashion/..."
+  location         : "United States"
+  email            :  "xinmengzhao@umass.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
