@@ -130,7 +130,7 @@ footer:
       #url: "https://www.facebook.com/people/%E8%B5%B5%E5%BF%83%E8%90%8C/100011212710010"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/XinmengZhao"
+      # url: "https://github.com/XinmengZhao"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/mengloveyama/"
+      # url: "https://www.instagram.com/mengloveyama/"
 
 
 # Reading Files
