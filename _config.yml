@@ -97,11 +97,11 @@ author:
   avatar           : “/assets/images/bio_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love **coffee**."
   location         : "United States "
-  email            :  xinmengzhao@umass.edu
+  email            :  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "xinmengzhao@umass.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -110,13 +110,14 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/people/%E8%B5%B5%E5%BF%83%E8%90%8C/100011212710010"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/XinmengZhao"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/mengloveyama/"
+
 
 # Site Footer
 footer:
@@ -126,7 +127,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/people/%E8%B5%B5%E5%BF%83%E8%90%8C/100011212710010"
+      #url: "https://www.facebook.com/people/%E8%B5%B5%E5%BF%83%E8%90%8C/100011212710010"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/XinmengZhao"
