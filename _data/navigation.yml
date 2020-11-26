@@ -8,5 +8,5 @@ main:
   #   url: /year-archive/
   - title: "Publications"
     url: /_pages/publication/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Life"
+    url: /_pages/life/
