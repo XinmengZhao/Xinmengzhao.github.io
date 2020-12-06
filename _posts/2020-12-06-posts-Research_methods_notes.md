@@ -97,4 +97,10 @@ For PhD level, contribution expected at global/ world level
             - Have the authors been cutting corners?
             - Would results be reproducable?
             - Problematic experimental setup?
+            - Confounding factors
+            - Unrealistic or artificial benchmarks?
+            - Methodological misunderstanding?
+            - Do the numbers add up?
+            - Are the generalizations valid?
+            - Are the claims modest enough?
         
