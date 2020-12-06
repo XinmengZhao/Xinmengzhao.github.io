@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Xinmeng Zhao"
   avatar           : "/assets/images/bio_profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Disease modeling, coffee, workout, cooking, fashion, ..."
+  bio              : "Disease modeling, coffee, workout, cooking, sustainable fashion, ..."
   location         : "Amherst, MA, USA"
   email            :  "xinmengzhao@umass.edu"
   links:
@@ -288,3 +288,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
+      share: true
+      related: true
