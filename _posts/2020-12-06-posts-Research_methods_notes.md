@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes of CS6000 Computer Science Research Methods
+title: Part 1 Notes of CS6000 Computer Science Research Methods
 ---
 # Scope of Research
 For PhD level, contribution expected at global/ world level
@@ -25,4 +25,13 @@ For PhD level, contribution expected at global/ world level
 - Formalize a new problem, then attack it   
 
 # READ HIGH QUALITY PAPER  
+- Tools
+    - Google scholar
+    - Microsoft academic research
+    - Library
+    - Research gate
+- Criteria
+    - Acceptance rate (for conference/...)
+    - Number of citations
+
 
