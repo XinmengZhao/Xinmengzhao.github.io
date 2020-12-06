@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Notes of CS6000 Computer Science Research Methods
+date: 2020-12-06 
+categories: Research Academy
 ---
 
-
+===========================================================
 # Scope of Research
 For PhD level, contribution expected at global/ world level
 # What is Research
@@ -20,4 +22,7 @@ For PhD level, contribution expected at global/ world level
     - Combines both quantitative and qualitative approaches
 - Advocacy/ participatory research methods
     - Predefined agenda
-    
+# Approaches to CS Research
+- Attack a known problem, find or compare tools to solve it
+- Formalize a new problem, then attack it    
+
