@@ -42,7 +42,7 @@ For PhD level, contribution expected at global/ world level
     - Impact factors
     - Number of readers
 
-# How To Read
+# How To Read A Paper
 - The browse (total 1-2 mins "gut check")
     - Go through 100-1000 papers a year 
     - To see interesting /relevant
@@ -103,4 +103,8 @@ For PhD level, contribution expected at global/ world level
             - Do the numbers add up?
             - Are the generalizations valid?
             - Are the claims modest enough?
-        
+    - Creatively read   
+        - What is the novelty of the paper?
+        - Does it open up new directions?
+        - What are the good ideas in this paper? Can they can extended or generalized?
+        - Could their ideas be combined with other approaches / your work?  
