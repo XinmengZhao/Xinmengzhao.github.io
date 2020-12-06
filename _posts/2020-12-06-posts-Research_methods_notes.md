@@ -108,3 +108,7 @@ For PhD level, contribution expected at global/ world level
         - Does it open up new directions?
         - What are the good ideas in this paper? Can they can extended or generalized?
         - Could their ideas be combined with other approaches / your work?  
+        - If there were other assumptions made, could that improve the approach? Could you ensure those assumptions were true for some problems?
+        - Are there better numerical methods than what they are doing?
+        - Are there possible improvements that make important practical differences?
+        - If you were going to start doing research from this paper, what would be the next thing you would do?
