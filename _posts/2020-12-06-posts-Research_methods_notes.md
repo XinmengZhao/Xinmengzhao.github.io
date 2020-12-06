@@ -2,10 +2,10 @@
 layout: post
 title: Part 1 Notes of CS6000 Computer Science Research Methods
 ---
-# Scope of Research
+## Scope of Research
 For PhD level, contribution expected at global/ world level
 
-# What is Research
+## What is Research
 - Quantitative 
     - Def: use of mathematical models, softwares do statistical, formulaic or numerical analysis 
     - Approach: discovery, analysis, causal determination, prediction: or generalization of findings
@@ -20,17 +20,17 @@ For PhD level, contribution expected at global/ world level
 - Advocacy/ participatory research methods
     - Predefined agenda
 
-# Approaches to CS Research
+## Approaches to CS Research
 - Attack a known problem, find or compare tools to solve it
 - Formalize a new problem, then attack it   
 
-# Why Do We Cite Papers
+## Why Do We Cite Papers
 - Relate our problem to prior work
 - Add credibility
 - Show that we know what is important in prior work, what is solved and what is open.
 - Establish current state-of-the-art
 
-# READ HIGH QUALITY PAPER  
+## READ HIGH QUALITY PAPER  
 - Tools
     - Google scholar
     - Microsoft academic research
@@ -42,7 +42,7 @@ For PhD level, contribution expected at global/ world level
     - Impact factors
     - Number of readers
 
-# How To Read A Paper
+## How To Read A Paper
 - The browse (total 1-2 mins "gut check")
     - Go through 100-1000 papers a year 
     - To see interesting /relevant

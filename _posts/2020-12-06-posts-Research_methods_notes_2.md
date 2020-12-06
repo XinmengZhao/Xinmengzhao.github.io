@@ -2,7 +2,7 @@
 layout: post
 title: Part 2 Notes of CS6000 Computer Science Research Methods
 ---
-# First Reading Assignment
+## First Reading Assignment
 - Describe your research irection
 - Search for 3 "good" papers for your research
 - Describe your process and the results
