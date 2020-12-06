@@ -112,3 +112,10 @@ For PhD level, contribution expected at global/ world level
     - Are there better numerical methods than what they are doing?
     - Are there possible improvements that make important practical differences?
     - If you were going to start doing research from this paper, what would be the next thing you would do?
+
+## Literatrue comprehension
+- Active reading 
+- Literature map: https://tobloef.com/text2mindmap/
+    - write the title of your research on top
+    - main topics relavent to your research underneath
+    - Associate the papers you read with each of the topics
